@@ -8,7 +8,7 @@
 
 * [Tmall](https://www.tmall.com/)
 * [Creator](https://github.com/Starbors)
-This is a simple clone of the website satorigraphics.net which looks amazing! feel free to follow us and if you wanted to join the team tell me.
+* This is a tmall clone.
 ## 🎺How to install
  ```
 $ git clone https://github.com/codingkids4life/tmall.com-home-page-clone
